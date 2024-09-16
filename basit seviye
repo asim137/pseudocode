@@ -1,0 +1,8 @@
+# Basit Seviye: İki sayıyı toplayan pseudo kodu yaz.
+
+Başla
+  Sayi'i kullanıcıdan al
+  Sayii'yi kullanıcıdan al
+  Toplam = Sayi + Sayii
+  Toplam sonucunu  ekrana yazdır
+Bitir
