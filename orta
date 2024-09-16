@@ -1,0 +1,8 @@
+# orta seviye= 1 den 100 e kadar olan sayıların toplamı
+Başla
+  Toplam = 0
+  1'den 100'e kadar olan (i=1,i<=100 ) döngü başlat
+    Toplam = Toplam + i
+  döngüden çık
+  Toplamı ekrana yazdır
+Bitir
