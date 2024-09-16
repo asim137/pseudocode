@@ -1,0 +1,15 @@
+#zor seviye= Kullanıcıdan alınan bir sayının asal olup olmadığımı bulan bir programın pseudo kodu
+Başla
+  Sayı'yı kullanıcıdan al
+  Eğer Sayı <= 1 ise
+    Asal değil yazdır
+  aksi takdirde
+   2'den (Sayı-1)'e kadar döngü başlat
+   sayı 2 ise
+   Asal yazdır
+   Eğer Sayı % i == 0(modundan kalan) ise
+     Asal değil yazdır ve dur
+    döngü sonu
+    Eğer hiç bölen bulunamadıysa
+      Asal yazdır
+Bitir
