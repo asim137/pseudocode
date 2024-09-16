@@ -1,0 +1,12 @@
+# zor:Bir dizideki (array) elemanların tekrar edip etmediğini kontrol eden bir programın pseudo kodunu
+Başla
+  Diziyi kullanıcıdan al
+  Boş bir liste (Görülenler) oluştur
+  Dizideki her eleman için döngü başlat
+    Eğer eleman Görülenler listesinde ise
+      Tekrar ediyor yazdır ve dur
+    aksi takdirde
+      Elemanı Görülenler listesine ekle
+  döngü sonu
+  Tekrar etmiyor yazdır
+Bitir
