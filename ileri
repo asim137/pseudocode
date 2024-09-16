@@ -1,4 +1,4 @@
-#zor seviye= Kullanıcıdan alınan bir sayının asal olup olmadığımı bulan bir programın pseudo kodu
+#ileri seviye= Kullanıcıdan alınan bir sayının asal olup olmadığımı bulan bir programın pseudo kodu
 Başla
   Sayı'yı kullanıcıdan al
   Eğer Sayı <= 1 ise
